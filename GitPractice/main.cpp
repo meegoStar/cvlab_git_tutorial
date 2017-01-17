@@ -7,6 +7,7 @@ int main() {
 	string name;
 
 	cout << "Hello CVLab!" << endl;
+	cout << "This is teammate_A speaking." << endl;
 	cout << "What's your name?" << endl;
 	cin >> name;
 	cout << "Glad to know you, " << name << endl;
